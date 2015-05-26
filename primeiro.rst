@@ -1,4 +1,4 @@
-como testacar parte de um texto, com *italico* ou **negrito**. pode-se tambem detacar um texto com fonte ''monoespaçada''.
+como testacar parte de um texto, com *italico* ou **negrito**. pode-se tambem detacar um texto com fonte ``monoespaçada``.
 
 perceber-se, entao, que para formatar em:
 
