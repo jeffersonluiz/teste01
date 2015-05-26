@@ -1,0 +1,16 @@
+LISTA DE CAFÉ DA MANHÃ:
+
+* PÃO
+* CAFÉ
+* QUEIJO
+* PRESUNTO
+* FRUTAS
+
+ * BANANA
+ * MELANCIA
+ * MAMÃO
+ * MELÃO
+ 
+* SUCO
+* CUZCUZ
+* LEITE
