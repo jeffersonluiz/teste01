@@ -1,3 +1,6 @@
+FORMATAÇÃO
+============
+
 como testacar parte de um texto, com *italico* ou **negrito**. pode-se tambem detacar um texto com fonte ``monoespaçada``.
 
 perceber-se, entao, que para formatar em:
@@ -7,6 +10,9 @@ perceber-se, entao, que para formatar em:
 * fontes monoespaçada: cerca-se o texto com duas crases (``)
 
 ``a fonte monoespaçada é util para citar comandos e frases.``
+
+LISTA
+=====
 
 vamos criar uma lista? 
 para criar uma lista:
